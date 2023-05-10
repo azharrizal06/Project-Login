@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1064596902967",
+    "project_id": "login-6f013",
+    "storage_bucket": "login-6f013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064596902967:android:34a4076184154c456fdbb2",
+        "android_client_info": {
+          "package_name": "Com.azhar.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064596902967-nc9no4itt25pkc27bup4f04387b6jb15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVq_Gvo3odkLMlKQNl1lXanQ1WCJw07XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064596902967-nc9no4itt25pkc27bup4f04387b6jb15.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064596902967-rfdl5c515fp5ncuj8adnvkabmr8b77h3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Com.azhar.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
